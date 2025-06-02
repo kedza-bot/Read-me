@@ -37,6 +37,8 @@ Here are a few projects that showcase my learning and creativity:
 - [**Pine City ZooApp**](#) – Explore the animal kingdom digitally  
 - [**Avengers App**](#) – Fun with superheroes!  
 - ...and more to come!
+-  [**chat bot**](#) – Fun with superheroes!  
+- ...and more to come!
 
 ---
 
