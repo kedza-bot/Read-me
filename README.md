@@ -31,7 +31,7 @@ Here are a few projects that showcase my learning and creativity:
 
 - [**Portfolio**](#) – My personal showcase site  
 - [**E-Commerce**](#) – An online shopping platform  
-- [**Calculator**](https://github.com/kedza-bot/calculator)) – Simple and effective calculation tool made using HTML5 languages(HTML,CSS and Java Script) 
+- [**Calculator**](https://github.com/kedza-bot/calculator) – Simple and effective calculation tool made using HTML5 languages(HTML,CSS and Java Script) 
 - [**Login Form**](#) – User authentication UI  
 - [**Phonebook**](#) – Manage contacts with ease  
 - [**Pine City ZooApp**](#) – Explore the animal kingdom digitally  
