@@ -15,8 +15,8 @@ Hi there! I’m a developer and student excited about turning ideas into interac
 ## 🛠️ Top Skills
 
 - HTML5  
-- CSS3  
-- JavaScript (ES6+)  
+- CSS  
+- JavaScript   
 - Git & GitHub  
 - Visual Studio Code  
 - Linux (Basics)  
