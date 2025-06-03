@@ -37,7 +37,7 @@ Here are a few projects that showcase my learning and creativity:
 - [**Pine City ZooApp**](#) – Explore the animal kingdom digitally  
 - [**Avengers App**](#) – Fun with superheroes!  
 - ...and more to come!
--  [**chat bot**](https://kedza-bot.github.io/Mr-africa/) – Fun with tik tok meme!  
+-  [**chat bot**](https://github.com/kedza-bot/chat-bot) – Fun with tik tok meme!  
 - ...and more to come!
 
 ---
