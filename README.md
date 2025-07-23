@@ -64,6 +64,11 @@ I believe Africa can build, design, and use the same advanced technology the wor
 
 ---
 
+## Language State
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kedza-bot&layout=compact&theme=radical)
+
+---
+
 ## 🔗 Find Me Online  
 - [TikTok](https://www.tiktok.com/@mr_africa_official?_t=ZM-8yHC3097jlA&_r=1)  
 - [Facebook](https://www.facebook.com/share/16GdUh3zAy/)  
