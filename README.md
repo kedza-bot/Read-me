@@ -65,9 +65,10 @@ I believe Africa can build, design, and use the same advanced technology the wor
 ---
 
 ## 🔗 Find Me Online
-
-*Links in progress... connect with me soon!*  
-(Stay tuned for my portfolio and socials)
+## 🔗 Find Me Online  
+- [TikTok](https://www.tiktok.com/@mr_africa_official?_t=ZM-8yHC3097jlA&_r=1)  
+- [Facebook](https://www.facebook.com/share/16GdUh3zAy/)  
+- [LinkedIn](https://www.linkedin.com/in/kedza-ngwenya-477140252?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 
