@@ -15,7 +15,9 @@ Hi there! I’m a developer and student excited about turning ideas into interac
 ## 🛠️ Top Skills
 
 - HTML5  
-- CSS  
+- CSS
+- React
+- Tailwind
 - JavaScript   
 - Git & GitHub  
 - Visual Studio Code  
@@ -25,12 +27,36 @@ Hi there! I’m a developer and student excited about turning ideas into interac
 
 ---
 
+## 💼 Professional Projects
+
+Here are real-world projects I’ve built using modern web technologies. These projects focus on clean UI, performance, and practical problem-solving.
+
+### 🌟 Grand Gather Registry SA (Featured Project)
+
+![Grand Gather Registry SA](./path-to-image.png)
+
+A modern event registry platform designed to simplify event planning and vendor coordination.
+
+- **Live Demo:** https://ggr-sa.vercel.app/
+- **Tech Stack:** React, Tailwind CSS
+- **Source Code:** https://github.com/kedza-bot/GrandGatherRegistrySA.git
+
+**Key Highlights:**
+- Responsive and mobile-first design  
+- Clean, scalable UI with Tailwind  
+- Component-based architecture using React  
+- Built with real users and events in mind  
+
+---
+
+---
+
 ## 🌟 Featured Projects
 
 Here are a few projects that showcase my learning and creativity:
 
 - [**Portfolio**](#) – My personal showcase site  
-- [**E-Commerce**](#) – An online shopping platform  
+⁷- [**E-Commerce**](#) – An online shopping platform  
 - [**Calculator**](https://kedza-bot.github.io/calculator/) – Simple and effective calculation tool made using HTML5 languages(HTML,CSS and Java Script) 
 - [**Login Form**](#) – User authentication UI  
 - [**Phonebook**](https://kedza-bot.github.io/phone-book/) – Manage contacts with ease  
